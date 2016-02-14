@@ -44,7 +44,11 @@ class DownloaderCest
 			    $dragon->name = $dragonName;
 			    $dragon->fishPerHour = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Fish.png')]]/td[2]");
 			    $dragon->woodPerHour = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Wood.png')]]/td[2]");
-			    $dragon->collectTime = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Time.png')]]/td[2]");
+			    try {
+				    $dragon->collectTime = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Time.png')]]/td[2]");
+			    } catch(\Exception $e) {
+				    $dragon->collectTime = "TODO: add";
+			    }
 			    $dragon->iron = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Iron-Icon.png')]]/td[2]");
 			    if ($dragon->iron != "Cannot Collect") {
 				    $dragon->ironTime = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Time.png')]][2]/td[2]");

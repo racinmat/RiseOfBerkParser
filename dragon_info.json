@@ -1213,5 +1213,686 @@
         "iron": "Cannot Collect",
         "ironTime": "Cannot Collect",
         "battleType": ""
+    },
+    "Toothless": "Not classic dragon.",
+    "Foreverwing": "Not classic dragon.",
+    "Green Death": "Not classic dragon.",
+    "Bewilderbeast": "Not classic dragon.",
+    "Screaming Death": "Not classic dragon.",
+    "Bucket Stops Here": "Not classic dragon.",
+    "Exotic Hackatoo": {
+        "name": "Exotic Hackatoo",
+        "fishPerHour": "1,860,000",
+        "woodPerHour": "620,000",
+        "collectTime": "TODO: add",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Exotic Razorwhip": {
+        "name": "Exotic Razorwhip",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "1,750,000",
+        "collectTime": "21h10m",
+        "iron": "10",
+        "ironTime": "11h06m",
+        "battleType": "Medium"
+    },
+    "Exotic Ripwrecker": {
+        "name": "Exotic Ripwrecker",
+        "fishPerHour": "4,570,000",
+        "woodPerHour": "1,180,000",
+        "collectTime": "6h20m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Exotic Scauldron": {
+        "name": "Exotic Scauldron",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "1,180,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Exotic Shivertooth": {
+        "name": "Exotic Shivertooth",
+        "fishPerHour": "653,000",
+        "woodPerHour": "4,570,000",
+        "collectTime": "4h05m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Exotic Shockjaw": {
+        "name": "Exotic Shockjaw",
+        "fishPerHour": "594,000",
+        "woodPerHour": "1,780,000",
+        "collectTime": "5h15m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Exotic Sliquifier": {
+        "name": "Exotic Sliquifier",
+        "fishPerHour": "1,180,000",
+        "woodPerHour": "4,570,000",
+        "collectTime": "6h20m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Exotic Smothering Smokebreath": {
+        "name": "Exotic Smothering Smokebreath",
+        "fishPerHour": "1,240,000",
+        "woodPerHour": "1,240,000",
+        "collectTime": "5h15m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Exotic Sweet Death": {
+        "name": "Exotic Sweet Death",
+        "fishPerHour": "813,000",
+        "woodPerHour": "813,000",
+        "collectTime": "1d18h",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Exotic Sword Stealer": {
+        "name": "Exotic Sword Stealer",
+        "fishPerHour": "59,400",
+        "woodPerHour": "297,000",
+        "collectTime": "1d07h",
+        "iron": "11",
+        "ironTime": "11h38m",
+        "battleType": "Medium"
+    },
+    "Exotic Thunderpede": {
+        "name": "Exotic Thunderpede",
+        "fishPerHour": "4,570,000",
+        "woodPerHour": "653,000",
+        "collectTime": "4h05m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Exotic Tide Glider": {
+        "name": "Exotic Tide Glider",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "997,000",
+        "collectTime": "1d18h",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Exotic Whispering Death": {
+        "name": "Exotic Whispering Death",
+        "fishPerHour": "1,180,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Fanghook": {
+        "name": "Fanghook",
+        "fishPerHour": "1,780,000",
+        "woodPerHour": "445,000",
+        "collectTime": "5h15m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Medium"
+    },
+    "Fireworm Princess": {
+        "name": "Fireworm Princess",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "831,000",
+        "collectTime": "1d18h",
+        "iron": "4",
+        "ironTime": "13h40m",
+        "battleType": "Medium"
+    },
+    "Fireworm Queen": {
+        "name": "Fireworm Queen",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "891,000",
+        "collectTime": "2d15h",
+        "iron": "8",
+        "ironTime": "1d03h",
+        "battleType": "Medium"
+    },
+    "Flightmare": {
+        "name": "Flightmare",
+        "fishPerHour": "1,060,000",
+        "woodPerHour": "594,000",
+        "collectTime": "13h45m",
+        "iron": "4",
+        "ironTime": "14h48m",
+        "battleType": ""
+    },
+    "Flystorm": {
+        "name": "Flystorm",
+        "fishPerHour": "1,180,000",
+        "woodPerHour": "1,180,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Frozen Groncicle": {
+        "name": "Frozen Groncicle",
+        "fishPerHour": "1,480,000",
+        "woodPerHour": "1,480,000",
+        "collectTime": "1d02h",
+        "iron": "6",
+        "ironTime": "20h",
+        "battleType": "Short"
+    },
+    "Girl-Hookfang": {
+        "name": "Girl-Hookfang",
+        "fishPerHour": "2,970,000",
+        "woodPerHour": "445,000",
+        "collectTime": "2h05m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Gothi's Frostfright": {
+        "name": "Gothi's Frostfright",
+        "fishPerHour": "1,960,000",
+        "woodPerHour": "1,360,000",
+        "collectTime": "21h10m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Gothi's Pet": {
+        "name": "Gothi's Pet",
+        "fishPerHour": "2,970,000",
+        "woodPerHour": "2,970,000",
+        "collectTime": "2h05m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Gronckle": {
+        "name": "Gronckle",
+        "fishPerHour": "445,000",
+        "woodPerHour": "594,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Groundsplitter": {
+        "name": "Groundsplitter",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "980,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Head": {
+        "name": "Head",
+        "fishPerHour": "594,000",
+        "woodPerHour": "297,000",
+        "collectTime": "15h55m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Hideous Zippleback": {
+        "name": "Hideous Zippleback",
+        "fishPerHour": "534,000",
+        "woodPerHour": "534,000",
+        "collectTime": "18h30m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Hobblegrunt": {
+        "name": "Hobblegrunt",
+        "fishPerHour": "356,000",
+        "woodPerHour": "326,000",
+        "collectTime": "1d02h",
+        "iron": "4",
+        "ironTime": "22h13m",
+        "battleType": "Short"
+    },
+    "Hofferson's Bane": {
+        "name": "Hofferson's Bane",
+        "fishPerHour": "1,148,000",
+        "woodPerHour": "594,000",
+        "collectTime": "13h45m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Hookfang's Mate": {
+        "name": "Hookfang's Mate",
+        "fishPerHour": "2,970,000",
+        "woodPerHour": "445,000",
+        "collectTime": "4h10m",
+        "iron": "6",
+        "ironTime": "16h40m",
+        "battleType": "Medium"
+    },
+    "Hookfang's Offspring": {
+        "name": "Hookfang's Offspring",
+        "fishPerHour": "772,000",
+        "woodPerHour": "594,000",
+        "collectTime": "1d",
+        "iron": "4",
+        "ironTime": "14h48m",
+        "battleType": "Medium"
+    },
+    "Icebane": {
+        "name": "Icebane",
+        "fishPerHour": "1,780,000",
+        "woodPerHour": "None",
+        "collectTime": "7h55m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": ""
+    },
+    "Iggy": {
+        "name": "Iggy",
+        "fishPerHour": "891,000",
+        "woodPerHour": "891,000",
+        "collectTime": "9h30m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Leafy Snaptrapper": {
+        "name": "Leafy Snaptrapper",
+        "fishPerHour": "712,000",
+        "woodPerHour": "712,000",
+        "collectTime": "1d18h",
+        "iron": "6",
+        "ironTime": "13h20m",
+        "battleType": "Medium"
+    },
+    "Lil Lullaby": {
+        "name": "Lil Lullaby",
+        "fishPerHour": "2,670,000",
+        "woodPerHour": "2,670,000",
+        "collectTime": "8h40m",
+        "iron": "7",
+        "ironTime": "17h17m",
+        "battleType": "Short"
+    },
+    "Meatlug's Mate": {
+        "name": "Meatlug's Mate",
+        "fishPerHour": "2,820,000",
+        "woodPerHour": "423,000",
+        "collectTime": "4h10m",
+        "iron": "6",
+        "ironTime": "18h45m",
+        "battleType": "Short"
+    },
+    "Meatlug's Offspring": {
+        "name": "Meatlug's Offspring",
+        "fishPerHour": "594,000",
+        "woodPerHour": "742,000",
+        "collectTime": "10h35m",
+        "iron": "5",
+        "ironTime": "18h31m",
+        "battleType": "Short"
+    },
+    "Melting Wing": {
+        "name": "Melting Wing",
+        "fishPerHour": "3,940,000",
+        "woodPerHour": "3,940,000",
+        "collectTime": "1h",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Mildew's Misery": {
+        "name": "Mildew's Misery",
+        "fishPerHour": "4,810,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "1h",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Monstrous Nightmare": {
+        "name": "Monstrous Nightmare",
+        "fishPerHour": "594,000",
+        "woodPerHour": "445,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Night Terror": {
+        "name": "Night Terror",
+        "fishPerHour": "1,360,000",
+        "woodPerHour": "1,360,000",
+        "collectTime": "21h10m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": ""
+    },
+    "Pain": {
+        "name": "Pain",
+        "fishPerHour": "504,000",
+        "woodPerHour": "891,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Primal Hobblegrunt": {
+        "name": "Primal Hobblegrunt",
+        "fishPerHour": "4,450,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "4h45m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Short"
+    },
+    "Raincutter": {
+        "name": "Raincutter",
+        "fishPerHour": "1,630,000",
+        "woodPerHour": "1,630,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Rattling Smokebreath": {
+        "name": "Rattling Smokebreath",
+        "fishPerHour": "564,000",
+        "woodPerHour": "564,000",
+        "collectTime": "10h35m",
+        "iron": "4",
+        "ironTime": "20h",
+        "battleType": ""
+    },
+    "Ruffnut's Trancemare": {
+        "name": "Ruffnut's Trancemare",
+        "fishPerHour": "950,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "8d20h",
+        "iron": "42",
+        "ironTime": "24d20h",
+        "battleType": ""
+    },
+    "Scauldy": {
+        "name": "Scauldy",
+        "fishPerHour": "683,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "21h10m",
+        "iron": "6",
+        "ironTime": "12h07m",
+        "battleType": "Medium"
+    },
+    "Seedling Rumblehorn": {
+        "name": "Seedling Rumblehorn",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "950,000",
+        "collectTime": "1d13h",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Short"
+    },
+    "Sharpshot": {
+        "name": "Sharpshot",
+        "fishPerHour": "534,000",
+        "woodPerHour": "534,000",
+        "collectTime": "15h50m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Shivertooth": {
+        "name": "Shivertooth",
+        "fishPerHour": "3,860,000",
+        "woodPerHour": "3,860,000",
+        "collectTime": "3h40m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Skrill Chiller": {
+        "name": "Skrill Chiller",
+        "fishPerHour": "3,940,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "15h55m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Smidvarg": {
+        "name": "Smidvarg",
+        "fishPerHour": "1,480,000",
+        "woodPerHour": "1,480,000",
+        "collectTime": "21h10m",
+        "iron": "7",
+        "ironTime": "16h22m",
+        "battleType": ""
+    },
+    "Snaggletooth": {
+        "name": "Snaggletooth",
+        "fishPerHour": "846,000*",
+        "woodPerHour": "846,000*",
+        "collectTime": "2d04h",
+        "iron": "6",
+        "ironTime": "13h20m",
+        "battleType": "Medium"
+    },
+    "Snifflehunch": {
+        "name": "Snifflehunch",
+        "fishPerHour": "1,360,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "21h10m",
+        "iron": "6",
+        "ironTime": "15h",
+        "battleType": "Medium"
+    },
+    "Solar Flare": {
+        "name": "Solar Flare",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "891,000",
+        "collectTime": "8d19h",
+        "iron": "10",
+        "ironTime": "9d06h",
+        "battleType": "Medium"
+    },
+    "Spikeback": {
+        "name": "Spikeback",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "5,640,000",
+        "collectTime": "14m",
+        "iron": "1",
+        "ironTime": "44m32s",
+        "battleType": "Short"
+    },
+    "Stokehead": {
+        "name": "Stokehead",
+        "fishPerHour": "297,000",
+        "woodPerHour": "712,000",
+        "collectTime": "22h10m",
+        "iron": "5",
+        "ironTime": "13h53m",
+        "battleType": "Short"
+    },
+    "Stormfly's Mate": {
+        "name": "Stormfly's Mate",
+        "fishPerHour": "1,180,000",
+        "woodPerHour": "1,180,000",
+        "collectTime": "10h35m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Thornado": {
+        "name": "Thornado",
+        "fishPerHour": "902,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "21h10m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Short"
+    },
+    "Thornridge": {
+        "name": "Thornridge",
+        "fishPerHour": "2,370,000",
+        "woodPerHour": "2,370,000",
+        "collectTime": "7h25m",
+        "iron": "4",
+        "ironTime": "14h48m",
+        "battleType": ""
+    },
+    "Thornshade": {
+        "name": "Thornshade",
+        "fishPerHour": "2,940,000",
+        "woodPerHour": "2,940,000",
+        "collectTime": "15h55m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Thump": {
+        "name": "Thump",
+        "fishPerHour": "3,560,000",
+        "woodPerHour": "2,370,000",
+        "collectTime": "2h05m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": ""
+    },
+    "Thunderclaw": {
+        "name": "Thunderclaw",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "4,570,000",
+        "collectTime": "5h45m",
+        "iron": "6",
+        "ironTime": "16h40m",
+        "battleType": "Short"
+    },
+    "Tide Glider": {
+        "name": "Tide Glider",
+        "fishPerHour": "831,000",
+        "woodPerHour": "Cannot Collect",
+        "collectTime": "1d18h",
+        "iron": "4",
+        "ironTime": "13h40m",
+        "battleType": ""
+    },
+    "Torch": {
+        "name": "Torch",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "920,000",
+        "collectTime": "21h10m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Medium"
+    },
+    "Torch's Brother": {
+        "name": "Torch's Brother",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "2,250,000",
+        "collectTime": "5h15m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Torch's Mother": {
+        "name": "Torch's Mother",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "1,630,000",
+        "collectTime": "12h10m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Torch's Sister": {
+        "name": "Torch's Sister",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "4,150,000",
+        "collectTime": "2h05m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Tormentor": {
+        "name": "Tormentor",
+        "fishPerHour": "1,360,000",
+        "woodPerHour": "1,360,000",
+        "collectTime": "21h10m",
+        "iron": "8",
+        "ironTime": "17h46m",
+        "battleType": "Short"
+    },
+    "Trailtwister": {
+        "name": "Trailtwister",
+        "fishPerHour": "None",
+        "woodPerHour": "1,180,000",
+        "collectTime": "2d02h",
+        "iron": "16",
+        "ironTime": "11d20h",
+        "battleType": "Short"
+    },
+    "Tuffnut's Death Ride": {
+        "name": "Tuffnut's Death Ride",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "3,440,000",
+        "collectTime": "15h55m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Short"
+    },
+    "Typhoomerang": {
+        "name": "Typhoomerang",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "920,000",
+        "collectTime": "12h10m",
+        "iron": "4",
+        "ironTime": "9h52m",
+        "battleType": "Medium"
+    },
+    "Valka's Mercy": {
+        "name": "Valka's Mercy",
+        "fishPerHour": "3,420,000",
+        "woodPerHour": "445,000",
+        "collectTime": "10h35m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Medium"
+    },
+    "Valka's Seashocker": {
+        "name": "Valka's Seashocker",
+        "fishPerHour": "4,750,000",
+        "woodPerHour": "594,000",
+        "collectTime": "4h10m",
+        "iron": "Cannot Collect",
+        "ironTime": "Cannot Collect",
+        "battleType": "Medium"
+    },
+    "Whirlwing": {
+        "name": "Whirlwing",
+        "fishPerHour": "None",
+        "woodPerHour": "1,180,000",
+        "collectTime": "12h10m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Short"
+    },
+    "Whispering Death": {
+        "name": "Whispering Death",
+        "fishPerHour": "Cannot Collect",
+        "woodPerHour": "683,000",
+        "collectTime": "10h35m",
+        "iron": "4",
+        "ironTime": "17h46m",
+        "battleType": "Short"
     }
 }
