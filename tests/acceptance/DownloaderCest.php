@@ -1,10 +1,11 @@
 <?php
 
-require_once "../../Dragon.php";
+require_once __DIR__ . "/../../Dragon.php";
 
 class DownloaderCest
 {
 	private $dragonInfo = [];
+	private $dragons = [];
 
     public function _before(AcceptanceTester $I)
     {
@@ -14,18 +15,20 @@ class DownloaderCest
     public function _after(AcceptanceTester $I)
     {
 	    file_put_contents('dragon_info.json', json_encode($this->dragonInfo, JSON_PRETTY_PRINT));
+	    file_put_contents('dragons.json', json_encode($this->dragons, JSON_PRETTY_PRINT));
     }
 
 	public function _failed(AcceptanceTester $I)
 	{
 		file_put_contents('dragon_info.json', json_encode($this->dragonInfo, JSON_PRETTY_PRINT));
+		file_put_contents('dragons.json', json_encode($this->dragons, JSON_PRETTY_PRINT));
 	}
 
     // tests
     public function grabDragonInfo(AcceptanceTester $I)
     {
-	    $dragons = json_decode(file_get_contents('dragons.json'));
-	    foreach ($dragons as $dragonName) {
+	    $this->dragons = json_decode(file_get_contents('dragons.json'));
+	    foreach ($this->dragons as $index => $dragonName) {
 		    if (in_array($dragonName, array_keys($this->dragonInfo))) {
 			    continue;
 		    }
@@ -33,6 +36,14 @@ class DownloaderCest
 		    $I->wantTo("Read data of dragon $dragonName");
 			$I->amOnPage("/wiki/$dragonName");
 		    $I->waitForElementVisible("#WikiaPageHeader > div > div.header-column.header-title");
+
+		    try {
+		        $I->see("Article $dragonName was not found");
+		    } catch(\Exception $e) {
+				unset($this->dragons[$index]);
+			    continue;
+		    }
+
 		    $isClassicDragon = true;
 		    try {
 			    $I->seeElement("#mw-content-text > table.infobox.Template > tbody");
