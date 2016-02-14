@@ -1,6 +1,6 @@
 <?php
 
-include_once "Dragon.php";
+require_once "../../Dragon.php";
 
 class DownloaderCest
 {
