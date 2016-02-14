@@ -1,0 +1,15 @@
+{
+  "name": "Azathoth/RiseOfBerkParser",
+  "description": "parser for game rise of berk",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Matej Racinsky",
+      "email": "matej.racinsky@seznam.cz"
+    }
+  ],
+  "require": {
+    "codeception/codeception": "^2.1"
+  }
+}
