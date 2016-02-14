@@ -30,6 +30,9 @@ class Dragon
 	/** @var string */
 	public $battleType;
 
+	/** @var int */
+	public $battlePower;
+
 	/**
 	 * Dragon constructor.
 	 * @param array $properties
