@@ -19,16 +19,16 @@ class Dragon
 	public $woodPerHour;
 
 	/** @var \DateTime */
-	public $collectTime;
+	public $collectionTime;
 
 	/** @var int */
 	public $iron;
 
 	/** @var \DateTime */
-	public $ironTime;
+	public $ironCollectionTime;
 
 	/** @var string */
-	public $battleType;
+	public $battleRange;
 
 	/** @var int */
 	public $battlePower;

@@ -9,8 +9,9 @@
 require_once "Dragon.php";
 require_once __DIR__ . "/vendor/autoload.php";
 
-saveToExcel();
-function saveToExcel()
+excelToJson();
+
+function jsonToExcel()
 {
 	$dragonArray = json_decode(file_get_contents('dragon_info.json'), true);
 	/** @var Dragon[] $dragons */
@@ -39,9 +40,9 @@ function saveToExcel()
 		$sheet->setCellValue("A$i", $dragon->name)
 			->setCellValue("B$i", $dragon->fishPerHour)
 			->setCellValue("C$i", $dragon->woodPerHour)
-			->setCellValue("D$i", $dragon->collectTime)
+			->setCellValue("D$i", $dragon->collectionTime)
 			->setCellValue("E$i", $dragon->iron)
-			->setCellValue("F$i", $dragon->ironTime)
+			->setCellValue("F$i", $dragon->ironCollectionTime)
 			->setCellValue("G$i", $dragon->battleType);
 		$i++;
 	}
@@ -51,7 +52,39 @@ function saveToExcel()
 	$objWriter->save("Dragons.xlsx");
 }
 
-function loadFromExcel()
+function excelToJson()
 {
+	$objPHPExcel = PHPExcel_IOFactory::load("Dragons.xlsx");
+	$sheetData = $objPHPExcel->getActiveSheet()->toArray(null,true,true,true);
+	/** @var Dragon[] $dragons */
+	$dragons = [];
+	$names = array_shift($sheetData);
 
+	//translate column names
+	foreach ($sheetData as $index => $array) {
+		$sheetData[$index] = [];
+		foreach ($array as $key => $value) {
+			$sheetData[$index][camelCase($names[$key])] = $value;
+		}
+	}
+
+	foreach ($sheetData as $dragonData) {
+		$dragons[$dragonData["name"]] = new Dragon($dragonData);
+	}
+
+	file_put_contents('dragonsTemp.json', json_encode($sheetData, JSON_PRETTY_PRINT));
+	file_put_contents('dragon_info.json', json_encode($dragons, JSON_PRETTY_PRINT));
+}
+
+function camelCase($str, array $noStrip = [])
+{
+	// non-alpha and non-numeric characters become spaces
+	$str = preg_replace('/[^a-z0-9' . implode("", $noStrip) . ']+/i', ' ', $str);
+	$str = trim($str);
+	// uppercase the first character of each word
+	$str = ucwords($str);
+	$str = str_replace(" ", "", $str);
+	$str = lcfirst($str);
+
+	return $str;
 }

@@ -45,20 +45,20 @@ class DownloaderCest
 			    $dragon->fishPerHour = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Fish.png')]]/td[2]");
 			    $dragon->woodPerHour = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Wood.png')]]/td[2]");
 			    try {
-				    $dragon->collectTime = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Time.png')]]/td[2]");
+				    $dragon->collectionTime = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Time.png')]]/td[2]");
 			    } catch(\Exception $e) {
-				    $dragon->collectTime = "TODO: add";
+				    $dragon->collectionTime = "TODO: add";
 			    }
 			    $dragon->iron = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Iron-Icon.png')]]/td[2]");
 			    if ($dragon->iron != "Cannot Collect") {
-				    $dragon->ironTime = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Time.png')]][2]/td[2]");
+				    $dragon->ironCollectionTime = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Time.png')]][2]/td[2]");
 			    } else {
-				    $dragon->ironTime = "Cannot Collect";
+				    $dragon->ironCollectionTime = "Cannot Collect";
 			    }
 			    try {
-				    $dragon->battleType = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Range_Icon.png')]]/td[2]");
+				    $dragon->battleRange = $I->grabTextFrom("//*[@id=\"mw-content-text\"]/table[1]/tbody/tr[td//text()[contains(., 'Range_Icon.png')]]/td[2]");
 			    } catch(\Exception $e) {
-				    $dragon->battleType = "TODO: add";
+				    $dragon->battleRange = "TODO: add";
 			    }
 			    $this->dragonInfo[$dragonName] = $dragon;
 		    } else {
