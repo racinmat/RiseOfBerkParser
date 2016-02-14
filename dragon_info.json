@@ -7,7 +7,7 @@
         "iron": 5,
         "ironCollectionTime": "11h06m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2397
     },
     "Axewing": {
         "name": "Axewing",
@@ -17,7 +17,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 4000
     },
     "Bam": {
         "name": "Bam",
@@ -27,7 +27,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1058
     },
     "Bandit": {
         "name": "Bandit",
@@ -96,7 +96,7 @@
         "collectionTime": "5h15m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1297
     },
     "Battle Fireworm Princess": {
@@ -116,7 +116,7 @@
         "collectionTime": "13h45m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1772
     },
     "Battle Grapple Grounder": {
@@ -286,8 +286,8 @@
         "collectionTime": "21h10m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2485
     },
     "Battle Sliquifier": {
         "name": "Battle Sliquifier",
@@ -306,7 +306,7 @@
         "collectionTime": "21h10m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1238
     },
     "Battle Snafflefang": {
@@ -337,7 +337,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2096
     },
     "Battle Sweet Death": {
         "name": "Battle Sweet Death",
@@ -347,7 +347,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2440
     },
     "Battle Sword Stealer": {
         "name": "Battle Sword Stealer",
@@ -467,7 +467,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1058
     },
     "Bonecrusher's Conquest": {
         "name": "Bonecrusher's Conquest",
@@ -517,7 +517,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1058
     },
     "Bork Week Nadder": {
         "name": "Bork Week Nadder",
@@ -526,7 +526,7 @@
         "collectionTime": "15h55m",
         "iron": 4,
         "ironCollectionTime": "17h46m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1701
     },
     "Brute Boneknapper": {
@@ -537,7 +537,7 @@
         "iron": 10,
         "ironCollectionTime": "11h06m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 1195
     },
     "Brute Snaptrapper": {
         "name": "Brute Snaptrapper",
@@ -547,7 +547,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 1195
     },
     "Brute Timberjack": {
         "name": "Brute Timberjack",
@@ -557,7 +557,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1326
     },
     "Butt": {
         "name": "Butt",
@@ -566,8 +566,8 @@
         "collectionTime": "15h55m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1036
     },
     "Catastrophic Quaken": {
         "name": "Catastrophic Quaken",
@@ -577,7 +577,7 @@
         "iron": 4,
         "ironCollectionTime": "4h26m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2262
     },
     "Clawlifter": {
         "name": "Clawlifter",
@@ -626,7 +626,7 @@
         "collectionTime": "5h15m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1036
     },
     "Deathsong": {
@@ -676,7 +676,7 @@
         "collectionTime": "4d09h",
         "iron": 10,
         "ironCollectionTime": "9d06h",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1036
     },
     "Earsplitter": {
@@ -697,7 +697,7 @@
         "iron": 5,
         "ironCollectionTime": "11h06m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2397
     },
     "Exiled Gronckle": {
         "name": "Exiled Gronckle",
@@ -737,7 +737,7 @@
         "iron": 11,
         "ironCollectionTime": "11h38m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2798
     },
     "Exotic Flightmare": {
         "name": "Exotic Flightmare",
@@ -746,8 +746,8 @@
         "collectionTime": "21h10m",
         "iron": 10,
         "ironCollectionTime": "11h06m",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2461
     },
     "Exotic Grapple Grounder": {
         "name": "Exotic Grapple Grounder",
@@ -756,8 +756,8 @@
         "collectionTime": "5h15m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2366
     },
     "Exotic Hackatoo": {
         "name": "Exotic Hackatoo",
@@ -766,8 +766,8 @@
         "collectionTime": "TODO: add",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1226
     },
     "Exotic Razorwhip": {
         "name": "Exotic Razorwhip",
@@ -777,7 +777,7 @@
         "iron": 10,
         "ironCollectionTime": "11h06m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2076
     },
     "Exotic Ripwrecker": {
         "name": "Exotic Ripwrecker",
@@ -787,7 +787,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2217
     },
     "Exotic Scauldron": {
         "name": "Exotic Scauldron",
@@ -797,7 +797,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 834
     },
     "Exotic Shivertooth": {
         "name": "Exotic Shivertooth",
@@ -806,8 +806,8 @@
         "collectionTime": "4h05m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2271
     },
     "Exotic Shockjaw": {
         "name": "Exotic Shockjaw",
@@ -827,7 +827,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 1275
     },
     "Exotic Smothering Smokebreath": {
         "name": "Exotic Smothering Smokebreath",
@@ -836,8 +836,8 @@
         "collectionTime": "5h15m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1084
     },
     "Exotic Sweet Death": {
         "name": "Exotic Sweet Death",
@@ -847,7 +847,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1950
     },
     "Exotic Sword Stealer": {
         "name": "Exotic Sword Stealer",
@@ -857,7 +857,7 @@
         "iron": 11,
         "ironCollectionTime": "11h38m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2798
     },
     "Exotic Thunderpede": {
         "name": "Exotic Thunderpede",
@@ -867,7 +867,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1504
     },
     "Exotic Tide Glider": {
         "name": "Exotic Tide Glider",
@@ -876,8 +876,8 @@
         "collectionTime": "1d18h",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 3031
     },
     "Exotic Whispering Death": {
         "name": "Exotic Whispering Death",
@@ -887,7 +887,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 924
     },
     "Fanghook": {
         "name": "Fanghook",
@@ -926,7 +926,7 @@
         "collectionTime": "13h45m",
         "iron": 4,
         "ironCollectionTime": "14h48m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1416
     },
     "Flystorm": {
@@ -996,8 +996,8 @@
         "collectionTime": "4h45m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2366
     },
     "Groncicle": {
         "name": "Groncicle",
@@ -1007,7 +1007,7 @@
         "iron": 4,
         "ironCollectionTime": "13h40m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2128
     },
     "Gronckle": {
         "name": "Gronckle",
@@ -1056,7 +1056,7 @@
         "collectionTime": "5h15m",
         "iron": 4,
         "ironCollectionTime": "4h26m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 2889
     },
     "Hackatoo": {
@@ -1066,7 +1066,7 @@
         "collectionTime": "5h15m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1207
     },
     "Head": {
@@ -1076,8 +1076,8 @@
         "collectionTime": "15h55m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1036
     },
     "Hideous Zippleback": {
         "name": "Hideous Zippleback",
@@ -1156,8 +1156,8 @@
         "collectionTime": "14m",
         "iron": 1,
         "ironCollectionTime": "44m32s",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 3031
     },
     "Changewing": {
         "name": "Changewing",
@@ -1166,7 +1166,7 @@
         "collectionTime": "12h40m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1131
     },
     "Chompers": {
@@ -1196,8 +1196,8 @@
         "collectionTime": "9h30m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1036
     },
     "Incognito": {
         "name": "Incognito",
@@ -1206,8 +1206,8 @@
         "collectionTime": "5h15m",
         "iron": 41,
         "ironCollectionTime": "37d23h",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 3696
     },
     "Kick-off Terror": {
         "name": "Kick-off Terror",
@@ -1326,8 +1326,8 @@
         "collectionTime": "21h10m",
         "iron": 4,
         "ironCollectionTime": "17h46m",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2414
     },
     "Pain": {
         "name": "Pain",
@@ -1336,8 +1336,8 @@
         "collectionTime": "10h35m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1036
     },
     "Primal Hobblegrunt": {
         "name": "Primal Hobblegrunt",
@@ -1347,7 +1347,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1593
     },
     "Primal Snafflefang": {
         "name": "Primal Snafflefang",
@@ -1357,7 +1357,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1593
     },
     "Primal Thornridge": {
         "name": "Primal Thornridge",
@@ -1366,8 +1366,8 @@
         "collectionTime": "1d13h",
         "iron": 7,
         "ironCollectionTime": "4h26m",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1701
     },
     "Raincutter": {
         "name": "Raincutter",
@@ -1376,7 +1376,7 @@
         "collectionTime": "10h35m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1416
     },
     "Rattling Smokebreath": {
@@ -1397,7 +1397,7 @@
         "iron": 6,
         "ironCollectionTime": "13h20m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2036
     },
     "Ripwrecker": {
         "name": "Ripwrecker",
@@ -1407,7 +1407,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2217
     },
     "Ruffnut's Trancemare": {
         "name": "Ruffnut's Trancemare",
@@ -1416,8 +1416,8 @@
         "collectionTime": "8d20h",
         "iron": 42,
         "ironCollectionTime": "24d20h",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 3506
     },
     "Rumblehorn": {
         "name": "Rumblehorn",
@@ -1456,7 +1456,7 @@
         "collectionTime": "21h10m",
         "iron": 4,
         "ironCollectionTime": "14h48m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1891
     },
     "Scauldron": {
@@ -1486,7 +1486,7 @@
         "collectionTime": "18h30m",
         "iron": 4,
         "ironCollectionTime": "14h48m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1654
     },
     "Seashocker": {
@@ -1506,8 +1506,8 @@
         "collectionTime": "4h45m",
         "iron": 8,
         "ironCollectionTime": "17h46m",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 3934
     },
     "Seedling Rumblehorn": {
         "name": "Seedling Rumblehorn",
@@ -1517,7 +1517,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1620
     },
     "Seedling Sweet Death": {
         "name": "Seedling Sweet Death",
@@ -1527,7 +1527,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 1620
     },
     "Sharpshot": {
         "name": "Sharpshot",
@@ -1536,8 +1536,8 @@
         "collectionTime": "15h50m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1036
     },
     "Shivertooth": {
         "name": "Shivertooth",
@@ -1546,8 +1546,8 @@
         "collectionTime": "3h40m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2271
     },
     "Shockjaw": {
         "name": "Shockjaw",
@@ -1566,8 +1566,8 @@
         "collectionTime": "21h10m",
         "iron": 4,
         "ironCollectionTime": "4h26m",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2414
     },
     "Skrill": {
         "name": "Skrill",
@@ -1576,8 +1576,8 @@
         "collectionTime": "21h10m",
         "iron": 4,
         "ironCollectionTime": "13h40m",
-        "battleRange": null,
-        "battlePower": 2485
+        "battleRange": "Long",
+        "battlePower": 1986
     },
     "Skrill Chiller": {
         "name": "Skrill Chiller",
@@ -1587,7 +1587,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2387
     },
     "Skullcrusher": {
         "name": "Skullcrusher",
@@ -1617,7 +1617,7 @@
         "iron": 6,
         "ironCollectionTime": "14h48m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2197
     },
     "Smidvarg": {
         "name": "Smidvarg",
@@ -1636,7 +1636,7 @@
         "collectionTime": "21h10m",
         "iron": 4,
         "ironCollectionTime": "14h48m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 989
     },
     "Snafflefang": {
@@ -1676,8 +1676,8 @@
         "collectionTime": "10h35m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 1036
     },
     "Sneezlehunch": {
         "name": "Sneezlehunch",
@@ -1697,7 +1697,7 @@
         "iron": 6,
         "ironCollectionTime": "15h",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2036
     },
     "Snoggletog Wraith": {
         "name": "Snoggletog Wraith",
@@ -1717,7 +1717,7 @@
         "iron": 4,
         "ironCollectionTime": "17h46m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2262
     },
     "Soaring Sidekick": {
         "name": "Soaring Sidekick",
@@ -1747,7 +1747,7 @@
         "iron": 1,
         "ironCollectionTime": "44m32s",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2841
     },
     "Stokehead": {
         "name": "Stokehead",
@@ -1776,7 +1776,7 @@
         "collectionTime": "10h35m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1226
     },
     "Stormfly's Mate": {
@@ -1816,7 +1816,7 @@
         "collectionTime": "10h35m",
         "iron": 16,
         "ironCollectionTime": "11d20h",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 3079
     },
     "Sword Stealer": {
@@ -1836,7 +1836,7 @@
         "collectionTime": "5h15m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 894
     },
     "Thornado": {
@@ -1856,7 +1856,7 @@
         "collectionTime": "7h25m",
         "iron": 4,
         "ironCollectionTime": "14h48m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 1796
     },
     "Thornshade": {
@@ -1866,8 +1866,8 @@
         "collectionTime": "15h55m",
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 3506
     },
     "Thump": {
         "name": "Thump",
@@ -1887,7 +1887,7 @@
         "iron": 6,
         "ironCollectionTime": "16h40m",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2663
     },
     "Thunderdrum": {
         "name": "Thunderdrum",
@@ -1916,8 +1916,8 @@
         "collectionTime": "1d18h",
         "iron": 4,
         "ironCollectionTime": "13h40m",
-        "battleRange": null,
-        "battlePower": null
+        "battleRange": "Long",
+        "battlePower": 2414
     },
     "Timberjack": {
         "name": "Timberjack",
@@ -2007,7 +2007,7 @@
         "iron": "Cannot Collect",
         "ironCollectionTime": "Cannot Collect",
         "battleRange": "Short",
-        "battlePower": null
+        "battlePower": 2958
     },
     "Typhoomerang": {
         "name": "Typhoomerang",
@@ -2077,7 +2077,7 @@
         "iron": 6,
         "ironCollectionTime": "16h40m",
         "battleRange": "Medium",
-        "battlePower": null
+        "battlePower": 2397
     },
     "Winged Warden": {
         "name": "Winged Warden",
@@ -2096,13 +2096,7 @@
         "collectionTime": "1d13h",
         "iron": 4,
         "ironCollectionTime": "13h40m",
-        "battleRange": null,
+        "battleRange": "Long",
         "battlePower": 2366
-    },
-    "Toothless": "Not classic dragon.",
-    "Foreverwing": "Not classic dragon.",
-    "Green Death": "Not classic dragon.",
-    "Bewilderbeast": "Not classic dragon.",
-    "Screaming Death": "Not classic dragon.",
-    "Bucket Stops Here": "Not classic dragon."
+    }
 }
